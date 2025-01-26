@@ -137,7 +137,6 @@ npx live-server
 
     - Run the following commands in the terminal:
 ```bash
-Edit
 git add .
 git commit -m "Initial commit"
 git branch -M main
